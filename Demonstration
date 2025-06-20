@@ -1,0 +1,8 @@
+This short video demonstrates the core features of MyGalleryApp, including:
+Loading recent images from Flickr
+Smooth pagination and pull-to-refresh
+Keyword-based image search
+Offline caching and retry logic
+Image preview with modal view
+
+(https://drive.google.com/file/d/1BS468Z7BFTnWHWY6E6-UnygLLUa5S_YR/view?usp=drivesdk)
