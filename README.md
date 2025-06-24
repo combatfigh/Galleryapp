@@ -9,6 +9,12 @@ user-friendly React Native mobile gallery that fetches stunning images from Flic
 -  Retry Snackbar for network failures
 -  Image modal preview with zoom effect
 -  Responsive layout using FlatList and image grid
+-  Home Gallery with recent images from Flickr (up to 3 pages)
+- Image Uploads using device gallery (plus button on Home screen)
+- Favorites View to display all liked photos
+- Profile Summary with live stats of uploads and favorites
+
+
 
   Technologies Used:-
 
